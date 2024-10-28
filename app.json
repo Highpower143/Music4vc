@@ -1,5 +1,5 @@
 {
-  "name": "ᴄʜᴧᴍᴘᴜ ꭙ ᴍᴜsɪᴄ",
+  "name": "『彡[ᴍᴜꜱɪᴄ]彡』•⁴ ᴠᴄ",
   "description": "ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs.",
   "logo": "https://telegra.ph/file/43b46c02ace4d9b83c96f.jpg",
   "keywords": [
@@ -66,7 +66,7 @@
       },
       "UPSTREAM_REPO": {
         "description": " ᴘᴜᴛ ʏᴏᴜʀ ʀᴇᴘᴏ ʟɪɴᴋ ʜᴇʀᴇ .",
-        "value": "https://github.com/TheChampu/ChampuMusic",
+        "value": "https://github.com/Highpower143/Music4vc",
         "required": true
       },
       "UPSTREAM_BRANCH": {
