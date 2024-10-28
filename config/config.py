@@ -53,7 +53,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", 6399386263).split())
+    map(int, getenv("OWNER_ID", 1786683163).split())
 )  # Input type must be interger
 
 ## Fill these variables if you're deploying on heroku.
@@ -73,11 +73,11 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/akaChampu"
-)  # Example:- https://t.me/akaChampu
+    "SUPPORT_CHANNEL", "https://t.me/creativeydv"
+)  # Example:- https://t.me/creativeydv
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/TheChampuClub"
-)  # Example:- https://t.me/TheChampuClub
+    "SUPPORT_GROUP", "https://t.me/v2ddos"
+)  # Example:- https://t.me/v2ddos
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
 
